@@ -6,6 +6,7 @@
 - 参考URL
 	-  HP https://ai-step.ec.t.kanazawa-u.ac.jp/
 	- ランキングサイト https://ai-step.ec.t.kanazawa-u.ac.jp/competition_02/#/home
+   	- リポジトリ https://github.com/keek420/AI-step 
 - 時期
 	- 2023/8~2023/10
 - 背景
